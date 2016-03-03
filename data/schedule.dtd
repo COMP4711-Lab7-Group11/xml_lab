@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- Root Element -->
+<!ELEMENT schedule (days, periods, courses) >
+<!ATTLIST schedule
+    term CDATA #REQUIRED
+    set  CDATA #REQUIRED
+>
+
+<!-- Course entry+ -->
+<!ELEMENT courses (course)* >
+<!ELEMENT course  (booking)* >
+<!ATTLIST course
+    code CDATA #REQUIRED
+>
+
+<!-- Day lists -->
+<!ELEMENT days (day)* >
+<!ELEMENT day  (booking)* >
+<!ATTLIST day
+    type (mon|tue|wed|thu|fri) #REQUIRED
+>
+
+
+<!-- Periods of course -->
+<!ELEMENT periods (period)* >
+<!ELEMENT period  (booking)* >
+<!ATTLIST period
+    time (830|930|1030|1130|1230|1330|1430|1530|1630) #REQUIRED
+>
+
+
+
+
+<!-- Complete block iwth day course and instructor-->
+<!ELEMENT booking EMPTY >
+<!ATTLIST booking
+        instructor  CDATA                                        #REQUIRED
+        room        CDATA                                        #REQUIRED
+        bookingtype CDATA                                        #REQUIRED
+        timeslot    (830|930|1030|1130|1230|1330|1430|1530|1630) #IMPLIED
+        dayofweek   (mon|tue|wed|thu|fri)                        #IMPLIED
+        coursename  CDATA                                        #IMPLIED
+>
