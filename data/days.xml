@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<days>
+    <day dayofweek="Monday">
+        <daybooking>
+            <time>830</time>
+            <courseName>COMP4932</courseName>
+            <room>SE12-308</room>
+            <instructor>Dennis Richards</instructor>
+        </daybooking>
+        <daybooking>
+            <time>1130</time>
+            <courseName>COMP4735</courseName>
+            <room>SW1-1205</room>
+            <instructor>Mirela Gutica</instructor>
+        </daybooking>
+        <daybooking>
+            <time>1430</time>
+            <courseName>COMP4995</courseName>
+            <room>SE12-308</room>
+            <instructor>Dennis Richards</instructor>
+        </daybooking>
+    </day>
+
+    <day dayofweek="Tuesday">
+        <daybooking>
+            <time>930</time>
+            <courseName>COMP4560</courseName>
+            <room>SE12-320</room>
+            <instructor>Brenda Fine</instructor>
+        </daybooking>
+        <daybooking>
+            <time>1130</time>
+            <courseName>COMP4560</courseName>
+            <room>SW5-1850</room>
+            <instructor>Brenda Fine</instructor>
+        </daybooking>
+        <daybooking>
+            <time>1430</time>
+            <courseName>COMP4711</courseName>
+            <room>SW5-1840</room>
+            <instructor>James Parry</instructor>
+        </daybooking>
+        <daybooking>
+            <time>1530</time>
+            <courseName>COMP4932</courseName>
+            <room>SE12-308</room>
+            <instructor>Dennis Richards</instructor>
+        </daybooking>
+    </day>
+
+    <day dayofweek="Wednesday">
+        <daybooking>
+            <time>830</time>
+            <courseName>COMP4735</courseName>
+            <room>SE12-308</room>
+            <instructor>Matthew Linder</instructor>
+        </daybooking>
+        <daybooking>
+            <time>1030</time>
+            <courseName>COMP4995</courseName>
+            <room>SE12-308</room>
+            <instructor>Dennis Richards</instructor>
+        </daybooking>
+        <daybooking>
+            <time>1130</time>
+            <courseName>COMP4995</courseName>
+            <room>SE12-308</room>
+            <instructor>Dennis Richards</instructor>
+        </daybooking>
+        <daybooking>
+            <time>1330</time>
+            <courseName>COMP4735</courseName>
+            <room>SW1-1205</room>
+            <instructor>Mirela Gutica</instructor>
+        </daybooking>
+    </day>
+
+    <day dayofweek="Thursday">
+        <daybooking>
+            <time>1130</time>
+            <courseName>COMP4735</courseName>
+            <room>SW3-1710</room>
+            <instructor>Mirela Gutica</instructor>
+        </daybooking>
+        <daybooking>
+            <time>1330</time>
+            <courseName>BLAW3600</courseName>
+            <room>SW3-4725</room>
+            <instructor>Catherine Ryan</instructor>
+        </daybooking>
+        <daybooking>
+            <time>1530</time>
+            <courseName>COMP4711</courseName>
+            <room>SE12-310</room>
+            <instructor>James Parry</instructor>
+        </daybooking>
+    </day>
+
+    <day dayofweek="Friday">
+        <daybooking>
+            <time>830</time>
+            <courseName>BLAW3600</courseName>
+            <room>SW5-1840</room>
+            <instructor>Catherine Ryan</instructor>
+        </daybooking>
+        <daybooking>
+            <time>1230</time>
+            <courseName>COMP4560</courseName>
+            <room>SW3-1750</room>
+            <instructor>Brenda Fine</instructor>
+        </daybooking>
+    </day>
+
+</days>
