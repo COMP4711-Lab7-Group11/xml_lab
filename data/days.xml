@@ -11,7 +11,7 @@
         <daybooking>
             <time>1130</time>
             <courseName>COMP4735</courseName>
-            <room>SW1-1205</room>
+            <room>SW5-1840</room>
             <instructor>Mirela Gutica</instructor>
         </daybooking>
         <daybooking>
@@ -54,7 +54,7 @@
             <time>830</time>
             <courseName>COMP4735</courseName>
             <room>SE12-308</room>
-            <instructor>Matthew Linder</instructor>
+            <instructor>Mirela Gutica</instructor>
         </daybooking>
         <daybooking>
             <time>1030</time>
@@ -62,13 +62,13 @@
             <room>SE12-308</room>
             <instructor>Dennis Richards</instructor>
         </daybooking>
-        <daybooking>
+		<daybooking>
             <time>1130</time>
             <courseName>COMP4995</courseName>
             <room>SE12-308</room>
             <instructor>Dennis Richards</instructor>
         </daybooking>
-        <daybooking>
+		<daybooking>
             <time>1330</time>
             <courseName>COMP4735</courseName>
             <room>SW1-1205</room>
@@ -86,10 +86,10 @@
         <daybooking>
             <time>1330</time>
             <courseName>BLAW3600</courseName>
-            <room>SW3-4725</room>
+            <room>SW3-2620</room>
             <instructor>Catherine Ryan</instructor>
         </daybooking>
-        <daybooking>
+		<daybooking>
             <time>1530</time>
             <courseName>COMP4711</courseName>
             <room>SE12-310</room>
@@ -101,13 +101,13 @@
         <daybooking>
             <time>830</time>
             <courseName>BLAW3600</courseName>
-            <room>SW5-1840</room>
+            <room>SW5-1850</room>
             <instructor>Catherine Ryan</instructor>
         </daybooking>
         <daybooking>
             <time>1230</time>
             <courseName>COMP4560</courseName>
-            <room>SW3-1750</room>
+            <room>SW1-1021</room>
             <instructor>Brenda Fine</instructor>
         </daybooking>
     </day>

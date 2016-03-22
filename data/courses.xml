@@ -4,14 +4,14 @@
     <course code="BLAW3600">
         <coursebooking>
             <weekday>Thursday</weekday>
-            <time>1330</time>
-            <room>SW3-4725</room>
+            <time>130</time>
+            <room>SW3-2620</room>
             <instructor>Catherine Ryan</instructor>
         </coursebooking>
         <coursebooking>
             <weekday>Friday</weekday>
-            <time>830</time>
-            <room>SW3-4785</room>
+            <time>1330</time>
+            <room>SW5-1850</room>
             <instructor>Catherine Ryan</instructor>
         </coursebooking>
     </course>
@@ -20,19 +20,25 @@
         <coursebooking>
             <weekday>Monday</weekday>
             <time>1130</time>
-            <room>SW1-1205</room>
+            <room>SW5-1840</room>
+            <instructor>Mirela Gutica</instructor>
+        </coursebooking>
+		<coursebooking>
+            <weekday>Wednesday</weekday>
+            <time>830</time>
+            <room>SE12-308</room>
             <instructor>Mirela Gutica</instructor>
         </coursebooking>
         <coursebooking>
             <weekday>Wednesday</weekday>
-            <time>830</time>
-            <room>SE12-308</room>
-            <instructor>Matthew Linder</instructor>
+            <time>1330</time>
+            <room>SW1-1205</room>
+            <instructor>Mirela Gutica</instructor>
         </coursebooking>
         <coursebooking>
             <weekday>Thursday</weekday>
             <time>1130</time>
-            <room>SW3-1750</room>
+            <room>SW3-1710</room>
             <instructor>Mirela Gutica</instructor>
         </coursebooking>
     </course>
@@ -68,7 +74,7 @@
         <coursebooking>
             <weekday>Friday</weekday>
             <time>1230</time>
-            <room>SW3-1750</room>
+            <room>SW1-1021</room>
             <instructor>Brenda Fine</instructor>
         </coursebooking>
     </course>
@@ -99,7 +105,7 @@
             <weekday>Wednesday</weekday>
             <time>1030</time>
             <room>SE12-308</room>
-            <instructor>Medhat Elmasry</instructor>
+            <instructor>Dennis Richards</instructor>
         </coursebooking>
         <coursebooking>
             <weekday>Wednesday</weekday>
